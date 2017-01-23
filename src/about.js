@@ -1,0 +1,1 @@
+console.log('Run scripts for about page');
